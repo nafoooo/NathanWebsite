@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 60px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
+.button1 {background-color: #04AA6D;} /* Green */
+.button1 {border-radius:50%}
+</style>
+
+<body bgcolor="#D8CBC4">
+
+<a href="aboutme.html">Home</a>
+<a href="portfolio.html">Portfolio</a>
+<a href="aboutme.html">About Me</a>
+
+<h1 align="center">About Me</h1>
+
+<h2 align="center">My parents</h2>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOU4iCoiQ1HTiIyje_7If_yB6NGDpqLz4dhhsXTSmfcqrhTym7swnu48PczpaVBo9GmI5LDYjuTcP6gENv5LqkntFSrw_GCuNIdTe8V5g68abTkJUNj=w2400" alt="Parents" style="width:75%">
+
+<h2 align="center">My brother</h2>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOPubKUZtTeS_63RrQg3OqnaBLwVPCqBpWi_yebpXJ1TAfyW-bvXEaAnMQ4HGDKRHhiQ57JUFsnb1aALNV77tI4aRNFf-UzM65BTcoI4-6csLKNRmf9=w2400" alt="Aaron" style="width:75%">
+
+<h2 align="center">I've been working on starting a nonprofit</h2>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOM_oNzN49EGZXWu_CLeaY3TZW0UY1KizNh2F04CozLu27mX1uIl74fz-oArcChd0aI_gZ8X1k8S6wqfahS7yDXrnir3M2hsEXDsmksyKAb9lC7UA_q=w2400" alt="wmiy worldwide" style="width:75%">
+
+<h2 align="center">I enjoy playing music</h2>
+<img src="https://philipedwards.wordpress.com/wp-content/uploads/2012/07/hamster_band_4.gif?w=245&h=139" alt="hamster playing oboe" style="width:75%">
+</body>
+
+</head>
+</html>

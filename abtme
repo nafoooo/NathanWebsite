@@ -1,6 +1,4 @@
-“$ touch index.html”
-
-"<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -48,4 +46,4 @@ img {
 </body>
 
 </head>
-</html>"
+</html>

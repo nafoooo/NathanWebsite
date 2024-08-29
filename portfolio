@@ -1,6 +1,4 @@
-“$ touch index.html”
-
-"<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -13,4 +11,4 @@
 <a href="aboutme.html">About Me</a>
 
 </body>
-</html>"
+</html>

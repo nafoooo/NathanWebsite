@@ -12,7 +12,7 @@ img {
 </head>
 <body bgcolor="#D8CBC4">
 
-<a href="home.html">Home</a>
+<a href="index.html">Home</a>
 <a href="portfolio.html">Portfolio</a>
 <a href="abtme.html">About Me</a>
 
